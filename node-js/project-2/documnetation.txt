@@ -1,0 +1,13 @@
+npm i -g nodemon
+npm i express
+
+dev depedency
+node mon 
+
+--save-dev
+-g 
+
+common js module
+
+(exports, require, module, __fileName, dirName)
+
